@@ -1,0 +1,6 @@
+D:\Homeworks\Homework_StaticMembersAndNamespaces\HTMLDispatcher\bin\Debug\HTMLDispatcher.exe.config
+D:\Homeworks\Homework_StaticMembersAndNamespaces\HTMLDispatcher\bin\Debug\HTMLDispatcher.exe
+D:\Homeworks\Homework_StaticMembersAndNamespaces\HTMLDispatcher\bin\Debug\HTMLDispatcher.pdb
+D:\Homeworks\Homework_StaticMembersAndNamespaces\HTMLDispatcher\obj\Debug\05_HTMLDispatcher.csprojResolveAssemblyReference.cache
+D:\Homeworks\Homework_StaticMembersAndNamespaces\HTMLDispatcher\obj\Debug\HTMLDispatcher.exe
+D:\Homeworks\Homework_StaticMembersAndNamespaces\HTMLDispatcher\obj\Debug\HTMLDispatcher.pdb

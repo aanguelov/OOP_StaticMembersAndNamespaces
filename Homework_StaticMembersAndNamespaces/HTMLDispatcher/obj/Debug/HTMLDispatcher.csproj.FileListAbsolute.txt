@@ -1,0 +1,1 @@
+D:\Homeworks\Homework_StaticMembersAndNamespaces\HTMLDispatcher\bin\Debug\HTMLDispatcher.exe.config

@@ -1,0 +1,1 @@
+D:\Homeworks\Homework_StaticMembersAndNamespaces\Namespaces\bin\Debug\Namespaces.exe.config

@@ -1,0 +1,7 @@
+D:\Homeworks\Homework_StaticMembersAndNamespaces\DistanceCalculator\bin\Debug\DistanceCalculator.exe.config
+D:\Homeworks\Homework_StaticMembersAndNamespaces\DistanceCalculator\bin\Debug\DistanceCalculator.exe
+D:\Homeworks\Homework_StaticMembersAndNamespaces\DistanceCalculator\bin\Debug\DistanceCalculator.pdb
+D:\Homeworks\Homework_StaticMembersAndNamespaces\DistanceCalculator\bin\Debug\Point3D.exe
+D:\Homeworks\Homework_StaticMembersAndNamespaces\DistanceCalculator\bin\Debug\Point3D.pdb
+D:\Homeworks\Homework_StaticMembersAndNamespaces\DistanceCalculator\obj\Debug\DistanceCalculator.exe
+D:\Homeworks\Homework_StaticMembersAndNamespaces\DistanceCalculator\obj\Debug\DistanceCalculator.pdb

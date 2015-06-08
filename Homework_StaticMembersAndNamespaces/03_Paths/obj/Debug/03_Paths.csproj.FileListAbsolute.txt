@@ -1,0 +1,8 @@
+D:\Homeworks\Homework_StaticMembersAndNamespaces\03_Paths\bin\Debug\03_Paths.exe.config
+D:\Homeworks\Homework_StaticMembersAndNamespaces\03_Paths\bin\Debug\03_Paths.exe
+D:\Homeworks\Homework_StaticMembersAndNamespaces\03_Paths\bin\Debug\03_Paths.pdb
+D:\Homeworks\Homework_StaticMembersAndNamespaces\03_Paths\bin\Debug\Point3D.exe
+D:\Homeworks\Homework_StaticMembersAndNamespaces\03_Paths\bin\Debug\Point3D.pdb
+D:\Homeworks\Homework_StaticMembersAndNamespaces\03_Paths\obj\Debug\03_Paths.csprojResolveAssemblyReference.cache
+D:\Homeworks\Homework_StaticMembersAndNamespaces\03_Paths\obj\Debug\03_Paths.exe
+D:\Homeworks\Homework_StaticMembersAndNamespaces\03_Paths\obj\Debug\03_Paths.pdb
